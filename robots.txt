@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://nitinsareen31.github.io//github/sitemap.xml 
